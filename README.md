@@ -1,3 +1,3 @@
-#HTML tutorial - format,list and table tags
+#HTML tutorial
 https://rash-22.github.io/HTMLtutorial/
 
